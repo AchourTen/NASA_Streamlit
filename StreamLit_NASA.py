@@ -63,7 +63,6 @@ if st.button("Get INFO"):
     else:
         st.warning("Please enter a valid NASA API key.")
 
-# Add some helpful information
 st.markdown("""
 ---
 ### About this app
